@@ -2,10 +2,10 @@ using UnityEngine;
 
 public class NewBehaviourScript : MonoBehaviour
 {
-    public float speed = 3f; // Horizontal movement speed
+    public float speed = 0.2f; // Horizontal movement speed
     public float jumpForce = 9f; // Jump strength
 
-    public float gravityScale = 2f;
+    public float gravityScale = 1.5f;
     private Rigidbody2D rb;
     private bool isGrounded;
 
@@ -21,11 +21,11 @@ public class NewBehaviourScript : MonoBehaviour
 
         if (Input.GetKey(KeyCode.A))
         {
-            move = -1f; // Move left
+            move = -0.5f; // Move left
         }
         else if (Input.GetKey(KeyCode.D))
         {
-            move = 1f; // Move right
+            move = 0.5f; // Move right
         }
 
         // Apply horizontal movement
