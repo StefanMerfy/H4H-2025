@@ -37,11 +37,6 @@ public class NewBehaviourScript : MonoBehaviour
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
             isGrounded = false; // Prevent double jumps
         }
-
-        if (rb.linearVelocity.y == 0f) // When player is not falling or jumping
-        {
-            rb.linearVelocity = new Vector2(rb.linearVelocity.x, -1f); // Apply a tiny downward force to prevent sticking
-        }
     }
 
     // Detect collisions to check if player is on the ground
