@@ -2,30 +2,35 @@ using UnityEngine;
 
 public class NewBehaviourScript : MonoBehaviour
 {
-    public float speed = 3f; // Horizontal movement speed
-    public float jumpForce = 9f; // Jump strength
+    public float speed = 0.2f; // Horizontal movement speed
+    public float jumpForce = 100f; // Jump strength (adjust this to a lower value for slower jumps)
+    public float gravityScale = 0f; // Gravity scale for falling speed (adjust this as needed)
 
-    public float gravityScale = 2f;
     private Rigidbody2D rb;
     private bool isGrounded;
+    private SpriteRenderer spriteRenderer;
 
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
-        rb.gravityScale = gravityScale;
+        spriteRenderer = GetComponent<SpriteRenderer>();
+        rb.gravityScale = gravityScale; // Set gravity scale
     }
 
     void Update()
     {
         float move = 0f;
 
+        // Horizontal movement
         if (Input.GetKey(KeyCode.A))
         {
-            move = -1f; // Move left
+            move = -0.2f;
+            spriteRenderer.flipX = true; // Move left
         }
         else if (Input.GetKey(KeyCode.D))
         {
-            move = 1f; // Move right
+            move = 0.2f;
+            spriteRenderer.flipX = false; // Move right
         }
 
         // Apply horizontal movement
@@ -34,7 +39,7 @@ public class NewBehaviourScript : MonoBehaviour
         // Jump when space is pressed & player is on the ground
         if (Input.GetKeyDown(KeyCode.Space) && isGrounded)
         {
-            rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
+            rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce); // Apply jump force
             isGrounded = false; // Prevent double jumps
         }
     }
@@ -44,7 +49,7 @@ public class NewBehaviourScript : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Ground"))
         {
-            isGrounded = true;
+            isGrounded = true; // Allow jumping again when touching the ground
         }
     }
 }
