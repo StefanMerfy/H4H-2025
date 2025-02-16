@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 8ca8151a42190db4d93be250b274e956
+guid: c5ee0d27113b84eadb4c8facecb86f8d
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -115,19 +115,6 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
     buildTarget: Standalone
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -397,18 +384,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      Kelp (fish)_0: 3107468213704096533
-      Kelp (fish)_1: -213664514286916578
-      Kelp (fish)_10: 379933151001383798
-      Kelp (fish)_2: 7858855823298958825
-      Kelp (fish)_3: 1326199043765782347
-      Kelp (fish)_4: -1964942612175319603
-      Kelp (fish)_5: -1376831324066174178
-      Kelp (fish)_6: 2657322200784618984
-      Kelp (fish)_7: -9113830973214075128
-      Kelp (fish)_8: 1330701482773869937
-      Kelp (fish)_9: -118321430331841682
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: d85d943123998bc4da16da54295cd2b7
+guid: 10aafc049753d4736b477e0ed00cf1ce
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -139,19 +139,6 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
     buildTarget: Standalone
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -597,26 +584,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      THE FINAL FISH_0: 807462566704421448
-      THE FINAL FISH_1: 637763520515945660
-      THE FINAL FISH_10: 4144405803490582678
-      THE FINAL FISH_11: -6624145636735002406
-      THE FINAL FISH_12: 5441903446181359094
-      THE FINAL FISH_13: -8414794743963486919
-      THE FINAL FISH_14: 4443080170237134137
-      THE FINAL FISH_15: 8009308703643805306
-      THE FINAL FISH_16: -3177321862414615886
-      THE FINAL FISH_17: -8690054409241828535
-      THE FINAL FISH_18: -7639882360105814389
-      THE FINAL FISH_2: 8626132210480647468
-      THE FINAL FISH_3: 2767583071871567155
-      THE FINAL FISH_4: -8098484279139172500
-      THE FINAL FISH_5: 1771758485753646171
-      THE FINAL FISH_6: -7830004046979046565
-      THE FINAL FISH_7: 4411277383370347230
-      THE FINAL FISH_8: 3031820901951050447
-      THE FINAL FISH_9: 8264346410519486287
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

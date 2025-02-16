@@ -1,46 +1,7 @@
 fileFormatVersion: 2
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
 guid: 9de48df89720c401d9065111d578ceb9
 TextureImporter:
   internalIDToNameTable: []
-=======
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-guid: 41e7b25920cab0b45bba1aad24e803c0
-TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: 8025216832750598178
-    second: walking animation real_0
-  - first:
-      213: -2265420533648480544
-    second: walking animation real_1
-  - first:
-      213: 2536399041807332707
-    second: walking animation real_2
-  - first:
-      213: -6473825941044532614
-    second: walking animation real_3
-  - first:
-      213: 3612772206348442975
-    second: walking animation real_4
-  - first:
-      213: 2388233089396140603
-    second: walking animation real_5
-  - first:
-      213: -2415908434205434466
-    second: walking animation real_6
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -78,19 +39,7 @@ TextureImporter:
     mipBias: 0
     wrapU: 1
     wrapV: 1
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
     wrapW: 0
-=======
-    wrapW: 1
->>>>>>> Stashed changes
-=======
-    wrapW: 1
->>>>>>> Stashed changes
-=======
-    wrapW: 1
->>>>>>> Stashed changes
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -114,46 +63,16 @@ TextureImporter:
   compressionQualitySet: 0
   textureFormatSet: 0
   ignorePngGamma: 0
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
   applyGammaDecoding: 1
   swizzle: 50462976
   cookieLightType: 2
-=======
-  applyGammaDecoding: 0
-  swizzle: 50462976
-  cookieLightType: 0
->>>>>>> Stashed changes
-=======
-  applyGammaDecoding: 0
-  swizzle: 50462976
-  cookieLightType: 0
->>>>>>> Stashed changes
-=======
-  applyGammaDecoding: 0
-  swizzle: 50462976
-  cookieLightType: 0
->>>>>>> Stashed changes
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
     textureCompression: 0
-=======
-    textureCompression: 1
->>>>>>> Stashed changes
-=======
-    textureCompression: 1
->>>>>>> Stashed changes
-=======
-    textureCompression: 1
->>>>>>> Stashed changes
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -166,9 +85,6 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
     textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
@@ -183,15 +99,6 @@ TextureImporter:
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 0
-=======
-    textureCompression: 1
->>>>>>> Stashed changes
-=======
-    textureCompression: 1
->>>>>>> Stashed changes
-=======
-    textureCompression: 1
->>>>>>> Stashed changes
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -206,58 +113,20 @@ TextureImporter:
       name: walking animation real_0
       rect:
         serializedVersion: 2
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
         x: 15
         y: 105
         width: 15
         height: 29
-=======
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-        x: 14
-        y: 104
-        width: 17
-        height: 31
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
       tessellationDetail: 0
       bones: []
       spriteID: 4f304ea02c45240c5a0dfafa05c1ad3b
       internalID: -732731233
-=======
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-      tessellationDetail: -1
-      bones: []
-      spriteID: 228b591a03c4f5f60800000000000000
-      internalID: 8025216832750598178
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
@@ -266,58 +135,20 @@ TextureImporter:
       name: walking animation real_1
       rect:
         serializedVersion: 2
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
         x: 64
         y: 111
         width: 15
         height: 29
-=======
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-        x: 63
-        y: 109
-        width: 17
-        height: 32
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
       tessellationDetail: 0
       bones: []
       spriteID: affde4f5c1b15424ea1574ca3ad6e435
       internalID: 49436859
-=======
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0e6a101070c9f80e0800000000000000
-      internalID: -2265420533648480544
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
@@ -326,58 +157,20 @@ TextureImporter:
       name: walking animation real_2
       rect:
         serializedVersion: 2
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
         x: 112
         y: 111
         width: 15
         height: 29
-=======
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-        x: 111
-        y: 109
-        width: 17
-        height: 32
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
       tessellationDetail: 0
       bones: []
       spriteID: b318d163d2ded4f3190406513dba6a7b
       internalID: 158272044
-=======
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-      tessellationDetail: -1
-      bones: []
-      spriteID: 36531977d79133320800000000000000
-      internalID: 2536399041807332707
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
@@ -386,58 +179,20 @@ TextureImporter:
       name: walking animation real_3
       rect:
         serializedVersion: 2
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
         x: 16
         y: 63
         width: 15
         height: 29
-=======
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-        x: 15
-        y: 61
-        width: 17
-        height: 32
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
       tessellationDetail: 0
       bones: []
       spriteID: 37db39f5f55d64f9daeb6a0b681c45c2
       internalID: 1881648135
-=======
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-      tessellationDetail: -1
-      bones: []
-      spriteID: a7ae45e3b995826a0800000000000000
-      internalID: -6473825941044532614
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
@@ -446,58 +201,20 @@ TextureImporter:
       name: walking animation real_4
       rect:
         serializedVersion: 2
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
         x: 63
         y: 57
         width: 15
         height: 29
-=======
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-        x: 62
-        y: 56
-        width: 17
-        height: 31
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
       tessellationDetail: 0
       bones: []
       spriteID: 83c0bf76b337b434cac11df2190f61fb
       internalID: 333756094
-=======
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-      tessellationDetail: -1
-      bones: []
-      spriteID: f5d9dcd2e25232230800000000000000
-      internalID: 3612772206348442975
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
@@ -506,58 +223,20 @@ TextureImporter:
       name: walking animation real_5
       rect:
         serializedVersion: 2
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
         x: 111
         y: 57
         width: 15
         height: 29
-=======
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-        x: 110
-        y: 56
-        width: 17
-        height: 31
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
       tessellationDetail: 0
       bones: []
       spriteID: 2ddc845f0a19947d8b1a220dfccd2490
       internalID: 1271839805
-=======
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-      tessellationDetail: -1
-      bones: []
-      spriteID: b3a6a466755b42120800000000000000
-      internalID: 2388233089396140603
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
@@ -566,58 +245,20 @@ TextureImporter:
       name: walking animation real_6
       rect:
         serializedVersion: 2
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
         x: 15
         y: 9
         width: 15
         height: 29
-=======
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-        x: 14
-        y: 8
-        width: 17
-        height: 31
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
       tessellationDetail: 0
       bones: []
       spriteID: 6b3badb8ee7ca4f40bef25d924be527a
       internalID: 262356194
-=======
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-      tessellationDetail: -1
-      bones: []
-      spriteID: e9d90514418f87ed0800000000000000
-      internalID: -2415908434205434466
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
@@ -626,19 +267,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
     spriteID: ec483cd72e564438b99264f795c366c4
-=======
-    spriteID: 
->>>>>>> Stashed changes
-=======
-    spriteID: 
->>>>>>> Stashed changes
-=======
-    spriteID: 
->>>>>>> Stashed changes
     internalID: 0
     vertices: []
     indices: 
@@ -647,9 +276,6 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
     nameFileIdTable:
       walking animation real_0: -732731233
       walking animation real_1: 49436859
@@ -658,15 +284,6 @@ TextureImporter:
       walking animation real_4: 333756094
       walking animation real_5: 1271839805
       walking animation real_6: 262356194
-=======
-    nameFileIdTable: {}
->>>>>>> Stashed changes
-=======
-    nameFileIdTable: {}
->>>>>>> Stashed changes
-=======
-    nameFileIdTable: {}
->>>>>>> Stashed changes
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
