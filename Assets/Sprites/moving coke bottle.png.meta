@@ -372,7 +372,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      moving coke bottle_0: 315961061857229752
+      moving coke bottle_1: 4632774021395531968
+      moving coke bottle_2: 2208153963202024515
+      moving coke bottle_3: -9044031821652526085
+      moving coke bottle_4: 1382012375597397486
+      moving coke bottle_5: -3260202441220400080
+      moving coke bottle_6: -3440493617453960231
+      moving coke bottle_7: 7924063858077946052
+      moving coke bottle_8: 2789867094182745511
+      moving coke bottle_9: 3506998596114209912
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
