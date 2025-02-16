@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 25fdac93d02024c23a99f82fdd5e76dd
+guid: 137e17aaa4c7acb4882a17fb3af56389
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -109,6 +109,19 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
     buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -334,7 +347,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Toxic waste_0: -7865440516916851037
+      Toxic waste_1: -3168685182699866016
+      Toxic waste_2: 4027781387735672491
+      Toxic waste_3: 4948630375771813318
+      Toxic waste_4: -5227407739584153998
+      Toxic waste_5: -5092894059263460719
+      Toxic waste_6: 6418312377990007909
+      Toxic waste_7: -2667252172593962673
+      Toxic waste_8: 5122012205465568174
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
