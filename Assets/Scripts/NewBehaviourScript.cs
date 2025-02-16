@@ -10,6 +10,7 @@ public class NewBehaviourScript : MonoBehaviour
     private bool isGrounded;
     private SpriteRenderer spriteRenderer;
 
+
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
