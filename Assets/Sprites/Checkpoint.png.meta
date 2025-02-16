@@ -1,9 +1,5 @@
 fileFormatVersion: 2
-<<<<<<< Updated upstream
 guid: 4c58c0bbc1cbb47dea4fb9b5b1c07fcc
-=======
-guid: e7662f0780d4c4e4c87dbbe09c2a1773
->>>>>>> Stashed changes
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -276,7 +272,6 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-<<<<<<< Updated upstream
     nameFileIdTable:
       Checkpoint_0: -3448120935943364757
       Checkpoint_1: 3301549609868922437
@@ -284,9 +279,6 @@ TextureImporter:
       Checkpoint_3: 5240123770684355362
       Checkpoint_4: -206266764050003113
       Checkpoint_5: 8932256421180023228
-=======
-    nameFileIdTable: {}
->>>>>>> Stashed changes
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
