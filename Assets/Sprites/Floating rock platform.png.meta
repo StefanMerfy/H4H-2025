@@ -159,7 +159,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Floating rock platform_0: 1856114356905901682
+      Floating rock platform_1: -3651621228727574461
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

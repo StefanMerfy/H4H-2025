@@ -159,7 +159,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      dead coral_0: -7799537191850353575
+      dead coral_1: -6582808911069930961
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
