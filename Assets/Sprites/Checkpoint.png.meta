@@ -1,28 +1,25 @@
 fileFormatVersion: 2
-guid: 2b0b2bc8acf7040c49f2e62285df41c9
+guid: f5e698e6caf301e4db154282346a259b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8025216832750598178
-    second: walking animation real_0
+      213: -3448120935943364757
+    second: Checkpoint_0
   - first:
-      213: -2265420533648480544
-    second: walking animation real_1
+      213: 3301549609868922437
+    second: Checkpoint_1
   - first:
-      213: 2536399041807332707
-    second: walking animation real_2
+      213: 596405922659037225
+    second: Checkpoint_2
   - first:
-      213: -6473825941044532614
-    second: walking animation real_3
+      213: 5240123770684355362
+    second: Checkpoint_3
   - first:
-      213: 3612772206348442975
-    second: walking animation real_4
+      213: -206266764050003113
+    second: Checkpoint_4
   - first:
-      213: 2388233089396140603
-    second: walking animation real_5
-  - first:
-      213: -2415908434205434466
-    second: walking animation real_6
+      213: 8932256421180023228
+    second: Checkpoint_5
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -118,13 +115,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: walking animation real_0
+      name: Checkpoint_0
       rect:
         serializedVersion: 2
-        x: 14
-        y: 104
-        width: 17
-        height: 31
+        x: 269
+        y: 1574
+        width: 347
+        height: 482
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -133,20 +130,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 228b591a03c4f5f60800000000000000
-      internalID: 8025216832750598178
+      spriteID: b6f12861740d520d0800000000000000
+      internalID: -3448120935943364757
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: walking animation real_1
+      name: Checkpoint_1
       rect:
         serializedVersion: 2
-        x: 63
-        y: 109
-        width: 17
-        height: 32
+        x: 989
+        y: 1574
+        width: 347
+        height: 482
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -155,20 +152,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0e6a101070c9f80e0800000000000000
-      internalID: -2265420533648480544
+      spriteID: 54e0198b0e571dd20800000000000000
+      internalID: 3301549609868922437
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: walking animation real_2
+      name: Checkpoint_2
       rect:
         serializedVersion: 2
-        x: 111
-        y: 109
-        width: 17
-        height: 32
+        x: 269
+        y: 854
+        width: 392
+        height: 482
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -177,20 +174,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 36531977d79133320800000000000000
-      internalID: 2536399041807332707
+      spriteID: 920f70ad60cd64800800000000000000
+      internalID: 596405922659037225
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: walking animation real_3
+      name: Checkpoint_3
       rect:
         serializedVersion: 2
-        x: 15
-        y: 61
-        width: 17
-        height: 32
+        x: 989
+        y: 854
+        width: 392
+        height: 482
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -199,20 +196,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a7ae45e3b995826a0800000000000000
-      internalID: -6473825941044532614
+      spriteID: 223b8ba5ec8a8b840800000000000000
+      internalID: 5240123770684355362
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: walking animation real_4
+      name: Checkpoint_4
       rect:
         serializedVersion: 2
-        x: 62
-        y: 56
-        width: 17
-        height: 31
+        x: 269
+        y: 134
+        width: 392
+        height: 527
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -221,20 +218,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f5d9dcd2e25232230800000000000000
-      internalID: 3612772206348442975
+      spriteID: 75b84df8871332df0800000000000000
+      internalID: -206266764050003113
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: walking animation real_5
+      name: Checkpoint_5
       rect:
         serializedVersion: 2
-        x: 110
-        y: 56
-        width: 17
-        height: 31
+        x: 989
+        y: 134
+        width: 392
+        height: 527
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -243,30 +240,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b3a6a466755b42120800000000000000
-      internalID: 2388233089396140603
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: walking animation real_6
-      rect:
-        serializedVersion: 2
-        x: 14
-        y: 8
-        width: 17
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e9d90514418f87ed0800000000000000
-      internalID: -2415908434205434466
+      spriteID: cb12323d3efb5fb70800000000000000
+      internalID: 8932256421180023228
       vertices: []
       indices: 
       edges: []
@@ -284,14 +259,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      walking animation real_0: 8025216832750598178
-      walking animation real_1: -2265420533648480544
-      walking animation real_2: 2536399041807332707
-      walking animation real_3: -6473825941044532614
-      walking animation real_4: 3612772206348442975
-      walking animation real_5: 2388233089396140603
-      walking animation real_6: -2415908434205434466
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -284,7 +284,14 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Dance png_0: -6560181266082836760
+      Dance png_1: -6564280581165185658
+      Dance png_2: -8357845704034386652
+      Dance png_3: -7390523989208457726
+      Dance png_4: 3047218818739891504
+      Dance png_5: -3976073478633773898
+      Dance png_6: -1630625980640979702
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
