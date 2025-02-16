@@ -1,28 +1,25 @@
 fileFormatVersion: 2
-guid: 4e16084754e5c428f888be749c0c2fce
+guid: 4c58c0bbc1cbb47dea4fb9b5b1c07fcc
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6560181266082836760
-    second: Dance png_0
+      213: -3448120935943364757
+    second: Checkpoint_0
   - first:
-      213: -6564280581165185658
-    second: Dance png_1
+      213: 3301549609868922437
+    second: Checkpoint_1
   - first:
-      213: -8357845704034386652
-    second: Dance png_2
+      213: 596405922659037225
+    second: Checkpoint_2
   - first:
-      213: -7390523989208457726
-    second: Dance png_3
+      213: 5240123770684355362
+    second: Checkpoint_3
   - first:
-      213: 3047218818739891504
-    second: Dance png_4
+      213: -206266764050003113
+    second: Checkpoint_4
   - first:
-      213: -3976073478633773898
-    second: Dance png_5
-  - first:
-      213: -1630625980640979702
-    second: Dance png_6
+      213: 8932256421180023228
+    second: Checkpoint_5
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -131,13 +128,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Dance png_0
+      name: Checkpoint_0
       rect:
         serializedVersion: 2
-        x: 14
-        y: 104
-        width: 17
-        height: 31
+        x: 269
+        y: 1574
+        width: 347
+        height: 482
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -146,20 +143,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8eec5f455ed85f4a0800000000000000
-      internalID: -6560181266082836760
+      spriteID: b6f12861740d520d0800000000000000
+      internalID: -3448120935943364757
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dance png_1
+      name: Checkpoint_1
       rect:
         serializedVersion: 2
-        x: 63
-        y: 109
-        width: 17
-        height: 32
+        x: 989
+        y: 1574
+        width: 347
+        height: 482
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -168,20 +165,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 68587a9279df6e4a0800000000000000
-      internalID: -6564280581165185658
+      spriteID: 54e0198b0e571dd20800000000000000
+      internalID: 3301549609868922437
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dance png_2
+      name: Checkpoint_2
       rect:
         serializedVersion: 2
-        x: 111
-        y: 109
-        width: 17
-        height: 32
+        x: 269
+        y: 854
+        width: 392
+        height: 482
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -190,20 +187,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 42d718b2d97f20c80800000000000000
-      internalID: -8357845704034386652
+      spriteID: 920f70ad60cd64800800000000000000
+      internalID: 596405922659037225
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dance png_3
+      name: Checkpoint_3
       rect:
         serializedVersion: 2
-        x: 15
-        y: 61
-        width: 17
-        height: 32
+        x: 989
+        y: 854
+        width: 392
+        height: 482
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -212,20 +209,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 20e1a37a6959f6990800000000000000
-      internalID: -7390523989208457726
+      spriteID: 223b8ba5ec8a8b840800000000000000
+      internalID: 5240123770684355362
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dance png_4
+      name: Checkpoint_4
       rect:
         serializedVersion: 2
-        x: 62
-        y: 56
-        width: 17
-        height: 31
+        x: 269
+        y: 134
+        width: 392
+        height: 527
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -234,20 +231,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 03d60ebee55e94a20800000000000000
-      internalID: 3047218818739891504
+      spriteID: 75b84df8871332df0800000000000000
+      internalID: -206266764050003113
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dance png_5
+      name: Checkpoint_5
       rect:
         serializedVersion: 2
-        x: 110
-        y: 56
-        width: 17
-        height: 31
+        x: 989
+        y: 134
+        width: 392
+        height: 527
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -256,30 +253,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6b4ae21cc3622d8c0800000000000000
-      internalID: -3976073478633773898
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Dance png_6
-      rect:
-        serializedVersion: 2
-        x: 14
-        y: 8
-        width: 17
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a051f5e5f4ade59e0800000000000000
-      internalID: -1630625980640979702
+      spriteID: cb12323d3efb5fb70800000000000000
+      internalID: 8932256421180023228
       vertices: []
       indices: 
       edges: []
@@ -298,13 +273,12 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Dance png_0: -6560181266082836760
-      Dance png_1: -6564280581165185658
-      Dance png_2: -8357845704034386652
-      Dance png_3: -7390523989208457726
-      Dance png_4: 3047218818739891504
-      Dance png_5: -3976073478633773898
-      Dance png_6: -1630625980640979702
+      Checkpoint_0: -3448120935943364757
+      Checkpoint_1: 3301549609868922437
+      Checkpoint_2: 596405922659037225
+      Checkpoint_3: 5240123770684355362
+      Checkpoint_4: -206266764050003113
+      Checkpoint_5: 8932256421180023228
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

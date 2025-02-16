@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class NewBehaviourScript : MonoBehaviour
 {
-    public float speed = 0.2f; // Horizontal movement speed
+    public float speed = 10f; // Horizontal movement speed
     public float jumpForce = 1f; // Jump strength (adjust this to a lower value for slower jumps)
     public float gravityScale = 0f; // Gravity scale for falling speed (adjust this as needed)
 
@@ -28,13 +28,13 @@ public class NewBehaviourScript : MonoBehaviour
         // Horizontal movement
         if (Input.GetKey(KeyCode.A))
         {
-            move = -0.2f;
+            move = -0.3f;
             spriteRenderer.flipX = true; // Move left
             animator.enabled = true;
         }
         else if (Input.GetKey(KeyCode.D))
         {
-            move = 0.2f;
+            move = 0.3f;
             spriteRenderer.flipX = false; // Move right
             animator.enabled = true;
             
@@ -45,7 +45,7 @@ public class NewBehaviourScript : MonoBehaviour
         }
 
         // Apply horizontal movement
-        rb.linearVelocity = new Vector2(move * speed, rb.linearVelocity.y);
+        rb.linearVelocity = new Vector2((move * speed), rb.linearVelocity.y);
 
         // Jump when space is pressed & player is on the ground
         if (Input.GetKeyDown(KeyCode.Space) && isGrounded)

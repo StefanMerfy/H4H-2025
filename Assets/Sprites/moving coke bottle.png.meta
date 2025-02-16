@@ -1,28 +1,37 @@
 fileFormatVersion: 2
-guid: 4e16084754e5c428f888be749c0c2fce
+guid: d1d1a8970cd1f4e94a509ce6500c12bd
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6560181266082836760
-    second: Dance png_0
+      213: 315961061857229752
+    second: moving coke bottle_0
   - first:
-      213: -6564280581165185658
-    second: Dance png_1
+      213: 4632774021395531968
+    second: moving coke bottle_1
   - first:
-      213: -8357845704034386652
-    second: Dance png_2
+      213: 2208153963202024515
+    second: moving coke bottle_2
   - first:
-      213: -7390523989208457726
-    second: Dance png_3
+      213: -9044031821652526085
+    second: moving coke bottle_3
   - first:
-      213: 3047218818739891504
-    second: Dance png_4
+      213: 1382012375597397486
+    second: moving coke bottle_4
   - first:
-      213: -3976073478633773898
-    second: Dance png_5
+      213: -3260202441220400080
+    second: moving coke bottle_5
   - first:
-      213: -1630625980640979702
-    second: Dance png_6
+      213: -3440493617453960231
+    second: moving coke bottle_6
+  - first:
+      213: 7924063858077946052
+    second: moving coke bottle_7
+  - first:
+      213: 2789867094182745511
+    second: moving coke bottle_8
+  - first:
+      213: 3506998596114209912
+    second: moving coke bottle_9
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -131,13 +140,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Dance png_0
+      name: moving coke bottle_0
       rect:
         serializedVersion: 2
-        x: 14
-        y: 104
-        width: 17
-        height: 31
+        x: 179
+        y: 2459
+        width: 242
+        height: 242
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -146,20 +155,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8eec5f455ed85f4a0800000000000000
-      internalID: -6560181266082836760
+      spriteID: 8bbfad669e4826400800000000000000
+      internalID: 315961061857229752
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dance png_1
+      name: moving coke bottle_1
       rect:
         serializedVersion: 2
-        x: 63
-        y: 109
-        width: 17
-        height: 32
+        x: 899
+        y: 2459
+        width: 242
+        height: 242
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -168,20 +177,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 68587a9279df6e4a0800000000000000
-      internalID: -6564280581165185658
+      spriteID: 0c840fd4d6bea4040800000000000000
+      internalID: 4632774021395531968
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dance png_2
+      name: moving coke bottle_2
       rect:
         serializedVersion: 2
-        x: 111
-        y: 109
-        width: 17
-        height: 32
+        x: 1619
+        y: 2459
+        width: 242
+        height: 242
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -190,20 +199,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 42d718b2d97f20c80800000000000000
-      internalID: -8357845704034386652
+      spriteID: 344170a8450f4ae10800000000000000
+      internalID: 2208153963202024515
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dance png_3
+      name: moving coke bottle_3
       rect:
         serializedVersion: 2
-        x: 15
-        y: 61
-        width: 17
-        height: 32
+        x: 179
+        y: 1739
+        width: 242
+        height: 242
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -212,20 +221,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 20e1a37a6959f6990800000000000000
-      internalID: -7390523989208457726
+      spriteID: bfb721db9f42d7280800000000000000
+      internalID: -9044031821652526085
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dance png_4
+      name: moving coke bottle_4
       rect:
         serializedVersion: 2
-        x: 62
-        y: 56
-        width: 17
-        height: 31
+        x: 899
+        y: 1739
+        width: 242
+        height: 242
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -234,20 +243,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 03d60ebee55e94a20800000000000000
-      internalID: 3047218818739891504
+      spriteID: ee53da2fee4ed2310800000000000000
+      internalID: 1382012375597397486
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dance png_5
+      name: moving coke bottle_5
       rect:
         serializedVersion: 2
-        x: 110
-        y: 56
-        width: 17
-        height: 31
+        x: 1619
+        y: 1739
+        width: 242
+        height: 242
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -256,20 +265,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6b4ae21cc3622d8c0800000000000000
-      internalID: -3976073478633773898
+      spriteID: 03c523b272f61c2d0800000000000000
+      internalID: -3260202441220400080
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dance png_6
+      name: moving coke bottle_6
       rect:
         serializedVersion: 2
-        x: 14
-        y: 8
-        width: 17
-        height: 31
+        x: 179
+        y: 1019
+        width: 242
+        height: 242
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -278,8 +287,74 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a051f5e5f4ade59e0800000000000000
-      internalID: -1630625980640979702
+      spriteID: 9d378af8849e040d0800000000000000
+      internalID: -3440493617453960231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moving coke bottle_7
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 1019
+        width: 242
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c05f3e681ee7fd60800000000000000
+      internalID: 7924063858077946052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moving coke bottle_8
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 1019
+        width: 242
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a5505f375997b620800000000000000
+      internalID: 2789867094182745511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moving coke bottle_9
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 299
+        width: 242
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c5e2d64ac5ba030800000000000000
+      internalID: 3506998596114209912
       vertices: []
       indices: 
       edges: []
@@ -298,13 +373,16 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Dance png_0: -6560181266082836760
-      Dance png_1: -6564280581165185658
-      Dance png_2: -8357845704034386652
-      Dance png_3: -7390523989208457726
-      Dance png_4: 3047218818739891504
-      Dance png_5: -3976073478633773898
-      Dance png_6: -1630625980640979702
+      moving coke bottle_0: 315961061857229752
+      moving coke bottle_1: 4632774021395531968
+      moving coke bottle_2: 2208153963202024515
+      moving coke bottle_3: -9044031821652526085
+      moving coke bottle_4: 1382012375597397486
+      moving coke bottle_5: -3260202441220400080
+      moving coke bottle_6: -3440493617453960231
+      moving coke bottle_7: 7924063858077946052
+      moving coke bottle_8: 2789867094182745511
+      moving coke bottle_9: 3506998596114209912
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
