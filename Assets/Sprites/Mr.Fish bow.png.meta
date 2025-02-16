@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Mr.Fish bow_0: -507586123568301350
+      Mr.Fish bow_1: -8112921299174467608
+      Mr.Fish bow_2: 4434004791833867739
+      Mr.Fish bow_3: 4700496782073932607
+      Mr.Fish bow_4: -6595109224697440727
+      Mr.Fish bow_5: -1859575415287569604
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
