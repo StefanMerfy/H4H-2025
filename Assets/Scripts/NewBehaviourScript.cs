@@ -12,6 +12,7 @@ public class NewBehaviourScript : MonoBehaviour
     private Animator animator;
 
 
+
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();

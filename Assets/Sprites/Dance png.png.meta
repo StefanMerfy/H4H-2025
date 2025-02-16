@@ -1,32 +1,28 @@
 fileFormatVersion: 2
-<<<<<<< HEAD
-guid: 9de48df89720c401d9065111d578ceb9
-=======
-guid: 2b0b2bc8acf7040c49f2e62285df41c9
->>>>>>> dc34bab9ee25341199063f70c9ae5714077d43a2
+guid: 4e16084754e5c428f888be749c0c2fce
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8025216832750598178
-    second: walking animation real_0
+      213: -6560181266082836760
+    second: Dance png_0
   - first:
-      213: -2265420533648480544
-    second: walking animation real_1
+      213: -6564280581165185658
+    second: Dance png_1
   - first:
-      213: 2536399041807332707
-    second: walking animation real_2
+      213: -8357845704034386652
+    second: Dance png_2
   - first:
-      213: -6473825941044532614
-    second: walking animation real_3
+      213: -7390523989208457726
+    second: Dance png_3
   - first:
-      213: 3612772206348442975
-    second: walking animation real_4
+      213: 3047218818739891504
+    second: Dance png_4
   - first:
-      213: 2388233089396140603
-    second: walking animation real_5
+      213: -3976073478633773898
+    second: Dance png_5
   - first:
-      213: -2415908434205434466
-    second: walking animation real_6
+      213: -1630625980640979702
+    second: Dance png_6
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -118,231 +114,159 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-<<<<<<< HEAD
-  - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-=======
->>>>>>> dc34bab9ee25341199063f70c9ae5714077d43a2
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: walking animation real_0
+      name: Dance png_0
       rect:
         serializedVersion: 2
         x: 14
-<<<<<<< HEAD
-        y: 105
-        width: 17
-        height: 30
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-=======
         y: 104
         width: 17
         height: 31
       alignment: 0
       pivot: {x: 0, y: 0}
->>>>>>> dc34bab9ee25341199063f70c9ae5714077d43a2
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 228b591a03c4f5f60800000000000000
-      internalID: 8025216832750598178
+      spriteID: 8eec5f455ed85f4a0800000000000000
+      internalID: -6560181266082836760
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: walking animation real_1
+      name: Dance png_1
       rect:
         serializedVersion: 2
         x: 63
-<<<<<<< HEAD
-        y: 110
-        width: 17
-        height: 31
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-=======
         y: 109
         width: 17
         height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
->>>>>>> dc34bab9ee25341199063f70c9ae5714077d43a2
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0e6a101070c9f80e0800000000000000
-      internalID: -2265420533648480544
+      spriteID: 68587a9279df6e4a0800000000000000
+      internalID: -6564280581165185658
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: walking animation real_2
+      name: Dance png_2
       rect:
         serializedVersion: 2
         x: 111
-<<<<<<< HEAD
-        y: 110
-        width: 17
-        height: 31
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-=======
         y: 109
         width: 17
         height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
->>>>>>> dc34bab9ee25341199063f70c9ae5714077d43a2
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 36531977d79133320800000000000000
-      internalID: 2536399041807332707
+      spriteID: 42d718b2d97f20c80800000000000000
+      internalID: -8357845704034386652
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: walking animation real_3
+      name: Dance png_3
       rect:
         serializedVersion: 2
         x: 15
-<<<<<<< HEAD
-        y: 62
-        width: 17
-        height: 31
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-=======
         y: 61
         width: 17
         height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
->>>>>>> dc34bab9ee25341199063f70c9ae5714077d43a2
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a7ae45e3b995826a0800000000000000
-      internalID: -6473825941044532614
+      spriteID: 20e1a37a6959f6990800000000000000
+      internalID: -7390523989208457726
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: walking animation real_4
+      name: Dance png_4
       rect:
         serializedVersion: 2
         x: 62
-<<<<<<< HEAD
-        y: 57
-        width: 17
-        height: 30
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-=======
         y: 56
         width: 17
         height: 31
       alignment: 0
       pivot: {x: 0, y: 0}
->>>>>>> dc34bab9ee25341199063f70c9ae5714077d43a2
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f5d9dcd2e25232230800000000000000
-      internalID: 3612772206348442975
+      spriteID: 03d60ebee55e94a20800000000000000
+      internalID: 3047218818739891504
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: walking animation real_5
+      name: Dance png_5
       rect:
         serializedVersion: 2
         x: 110
-<<<<<<< HEAD
-        y: 57
-        width: 17
-        height: 30
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-=======
         y: 56
         width: 17
         height: 31
       alignment: 0
       pivot: {x: 0, y: 0}
->>>>>>> dc34bab9ee25341199063f70c9ae5714077d43a2
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b3a6a466755b42120800000000000000
-      internalID: 2388233089396140603
+      spriteID: 6b4ae21cc3622d8c0800000000000000
+      internalID: -3976073478633773898
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: walking animation real_6
+      name: Dance png_6
       rect:
         serializedVersion: 2
         x: 14
-<<<<<<< HEAD
-        y: 9
-        width: 17
-        height: 30
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-=======
         y: 8
         width: 17
         height: 31
       alignment: 0
       pivot: {x: 0, y: 0}
->>>>>>> dc34bab9ee25341199063f70c9ae5714077d43a2
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e9d90514418f87ed0800000000000000
-      internalID: -2415908434205434466
+      spriteID: a051f5e5f4ade59e0800000000000000
+      internalID: -1630625980640979702
       vertices: []
       indices: 
       edges: []
@@ -351,11 +275,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-<<<<<<< HEAD
-    spriteID: f00c0f55c4eb64c4aa17d76903d99596
-=======
     spriteID: 
->>>>>>> dc34bab9ee25341199063f70c9ae5714077d43a2
     internalID: 0
     vertices: []
     indices: 
@@ -364,18 +284,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-<<<<<<< HEAD
-    nameFileIdTable:
-      walking animation real_0: 8025216832750598178
-      walking animation real_1: -2265420533648480544
-      walking animation real_2: 2536399041807332707
-      walking animation real_3: -6473825941044532614
-      walking animation real_4: 3612772206348442975
-      walking animation real_5: 2388233089396140603
-      walking animation real_6: -2415908434205434466
-=======
     nameFileIdTable: {}
->>>>>>> dc34bab9ee25341199063f70c9ae5714077d43a2
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
