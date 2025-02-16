@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Oceanic backdrop_0: 6207400300293248078
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
