@@ -7,7 +7,11 @@ public class CameraFollow : MonoBehaviour
 
     void Update()
     {
-        Vector3 targetPosition = new Vector3(player.position.x, player.position.y+2, transform.position.z);
+        Vector3 targetPosition = new Vector3(player.position.x, player.position.y, transform.position.z);
         transform.position = Vector3.Lerp(transform.position, targetPosition, smoothSpeed * Time.deltaTime);
+        
+
+        // Set camera position to smoothed position
+        //transform.position = smoothedPosition;
     }
 }
