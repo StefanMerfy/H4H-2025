@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
+guid: 9de48df89720c401d9065111d578ceb9
+=======
 guid: 2b0b2bc8acf7040c49f2e62285df41c9
+>>>>>>> dc34bab9ee25341199063f70c9ae5714077d43a2
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -114,6 +118,22 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+<<<<<<< HEAD
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+=======
+>>>>>>> dc34bab9ee25341199063f70c9ae5714077d43a2
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -122,11 +142,19 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 14
+<<<<<<< HEAD
+        y: 105
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+=======
         y: 104
         width: 17
         height: 31
       alignment: 0
       pivot: {x: 0, y: 0}
+>>>>>>> dc34bab9ee25341199063f70c9ae5714077d43a2
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -144,11 +172,19 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 63
+<<<<<<< HEAD
+        y: 110
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+=======
         y: 109
         width: 17
         height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
+>>>>>>> dc34bab9ee25341199063f70c9ae5714077d43a2
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -166,11 +202,19 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 111
+<<<<<<< HEAD
+        y: 110
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+=======
         y: 109
         width: 17
         height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
+>>>>>>> dc34bab9ee25341199063f70c9ae5714077d43a2
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -188,11 +232,19 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 15
+<<<<<<< HEAD
+        y: 62
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+=======
         y: 61
         width: 17
         height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
+>>>>>>> dc34bab9ee25341199063f70c9ae5714077d43a2
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -210,11 +262,19 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 62
+<<<<<<< HEAD
+        y: 57
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+=======
         y: 56
         width: 17
         height: 31
       alignment: 0
       pivot: {x: 0, y: 0}
+>>>>>>> dc34bab9ee25341199063f70c9ae5714077d43a2
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -232,11 +292,19 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 110
+<<<<<<< HEAD
+        y: 57
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+=======
         y: 56
         width: 17
         height: 31
       alignment: 0
       pivot: {x: 0, y: 0}
+>>>>>>> dc34bab9ee25341199063f70c9ae5714077d43a2
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -254,11 +322,19 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 14
+<<<<<<< HEAD
+        y: 9
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+=======
         y: 8
         width: 17
         height: 31
       alignment: 0
       pivot: {x: 0, y: 0}
+>>>>>>> dc34bab9ee25341199063f70c9ae5714077d43a2
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -275,7 +351,11 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
+<<<<<<< HEAD
+    spriteID: f00c0f55c4eb64c4aa17d76903d99596
+=======
     spriteID: 
+>>>>>>> dc34bab9ee25341199063f70c9ae5714077d43a2
     internalID: 0
     vertices: []
     indices: 
@@ -284,7 +364,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
+<<<<<<< HEAD
+    nameFileIdTable:
+      walking animation real_0: 8025216832750598178
+      walking animation real_1: -2265420533648480544
+      walking animation real_2: 2536399041807332707
+      walking animation real_3: -6473825941044532614
+      walking animation real_4: 3612772206348442975
+      walking animation real_5: 2388233089396140603
+      walking animation real_6: -2415908434205434466
+=======
     nameFileIdTable: {}
+>>>>>>> dc34bab9ee25341199063f70c9ae5714077d43a2
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 2a71157a1cff14788a46d4b28213172d
+guid: 6b046958f179d4c19b3e8ae63d3379ec
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -132,6 +132,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -140,11 +153,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 95
-        width: 33
+        y: 96
+        width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -162,11 +175,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 32
-        y: 95
-        width: 33
+        y: 96
+        width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -184,11 +197,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 64
-        y: 95
-        width: 33
+        y: 96
+        width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -206,11 +219,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 96
-        y: 95
+        y: 96
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -228,11 +241,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 63
-        width: 33
-        height: 28
+        y: 64
+        width: 32
+        height: 31
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -249,12 +262,12 @@ TextureImporter:
       name: Fish_5
       rect:
         serializedVersion: 2
-        x: 32
-        y: 60
-        width: 33
+        x: 33
+        y: 64
+        width: 31
         height: 31
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -271,12 +284,12 @@ TextureImporter:
       name: Fish_6
       rect:
         serializedVersion: 2
-        x: 64
-        y: 60
-        width: 33
+        x: 65
+        y: 64
+        width: 31
         height: 31
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -293,12 +306,12 @@ TextureImporter:
       name: Fish_7
       rect:
         serializedVersion: 2
-        x: 96
-        y: 60
-        width: 32
+        x: 97
+        y: 64
+        width: 31
         height: 31
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -316,11 +329,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 28
-        width: 33
+        y: 32
+        width: 31
         height: 31
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -338,12 +351,12 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 32
-        y: 31
-        width: 33
-        height: 30
+        y: 32
+        width: 32
+        height: 31
       alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 1, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
@@ -359,12 +372,12 @@ TextureImporter:
       name: Fish_10
       rect:
         serializedVersion: 2
-        x: 64
-        y: 31
-        width: 33
-        height: 30
+        x: 65
+        y: 32
+        width: 31
+        height: 31
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -382,11 +395,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 96
-        y: 31
+        y: 32
         width: 32
-        height: 30
+        height: 31
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -405,10 +418,10 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 33
-        height: 29
+        width: 32
+        height: 31
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -425,7 +438,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: a312989f265f6484d8d629ba9acc19ac
     internalID: 0
     vertices: []
     indices: 
@@ -434,7 +447,20 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Fish_0: -1915776564401465818
+      Fish_1: -8217542319786499577
+      Fish_10: 4953700421485217503
+      Fish_11: 7569882410949808752
+      Fish_12: -9171614748212313213
+      Fish_2: 9156854346723684101
+      Fish_3: -3878289797822314810
+      Fish_4: 6406061711972274550
+      Fish_5: 900668292290427548
+      Fish_6: -1181076974519126152
+      Fish_7: 7704282712893456000
+      Fish_8: -6879157460212273855
+      Fish_9: -8276162684013312236
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

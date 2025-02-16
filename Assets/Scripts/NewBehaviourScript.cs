@@ -3,18 +3,21 @@ using UnityEngine;
 public class NewBehaviourScript : MonoBehaviour
 {
     public float speed = 0.2f; // Horizontal movement speed
-    public float jumpForce = 100f; // Jump strength (adjust this to a lower value for slower jumps)
+    public float jumpForce = 1f; // Jump strength (adjust this to a lower value for slower jumps)
     public float gravityScale = 0f; // Gravity scale for falling speed (adjust this as needed)
 
     private Rigidbody2D rb;
     private bool isGrounded;
     private SpriteRenderer spriteRenderer;
+    private Animator animator;
+
 
 
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
         spriteRenderer = GetComponent<SpriteRenderer>();
+        animator = GetComponent<Animator>();
         rb.gravityScale = gravityScale; // Set gravity scale
     }
 
@@ -27,11 +30,18 @@ public class NewBehaviourScript : MonoBehaviour
         {
             move = -0.2f;
             spriteRenderer.flipX = true; // Move left
+            animator.enabled = true;
         }
         else if (Input.GetKey(KeyCode.D))
         {
             move = 0.2f;
             spriteRenderer.flipX = false; // Move right
+            animator.enabled = true;
+            
+        }
+        else{
+            animator.enabled = false;
+            spriteRenderer = GetComponent<SpriteRenderer>();
         }
 
         // Apply horizontal movement
@@ -40,7 +50,7 @@ public class NewBehaviourScript : MonoBehaviour
         // Jump when space is pressed & player is on the ground
         if (Input.GetKeyDown(KeyCode.Space) && isGrounded)
         {
-            rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce); // Apply jump force
+            rb.linearVelocity = new Vector2(rb.linearVelocity.x, 7); // Apply jump force
             isGrounded = false; // Prevent double jumps
         }
     }
