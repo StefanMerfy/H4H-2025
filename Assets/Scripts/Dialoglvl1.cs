@@ -1,7 +1,7 @@
 using UnityEngine;
 using TMPro;
 
-public class DialogueManager : MonoBehaviour
+public class Dialoglvl1 : MonoBehaviour
 {
     public TextMeshProUGUI dialogueText;
     public GameObject dialoguePanel;
@@ -11,9 +11,12 @@ public class DialogueManager : MonoBehaviour
     
     private string[] sentences = new string[] 
     {
-        "Hello again. This time, you will have to traverse over oil barrels and not fall into the oil water pits.",
-        "Oil spills harm ocean life and contain toxins that harm sea life and coat them in oil resin.",
+        "Hello and welcome to Fishaman Adventures. - Press E for next",
+        "Here, you will learn the basic movements before you start your journey.",
+        "Your basic movement keys will consist of three movements, If you hit A on your keyboard, you will move left, and if you hit D, you will move right.",
+        "The space bar is used to jump, which will be needed to jump over obstacles.",
         "Good luck on your journey!",
+        //tutiorial ends
     };
     
     private int currentSentenceIndex = 0;

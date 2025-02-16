@@ -1,9 +1,5 @@
 fileFormatVersion: 2
-<<<<<<< Updated upstream
 guid: d1d1a8970cd1f4e94a509ce6500c12bd
-=======
-guid: 8329c1024df9c417299af3fb84845ea9
->>>>>>> Stashed changes
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -376,7 +372,6 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-<<<<<<< Updated upstream
     nameFileIdTable:
       moving coke bottle_0: 315961061857229752
       moving coke bottle_1: 4632774021395531968
@@ -388,9 +383,6 @@ TextureImporter:
       moving coke bottle_7: 7924063858077946052
       moving coke bottle_8: 2789867094182745511
       moving coke bottle_9: 3506998596114209912
-=======
-    nameFileIdTable: {}
->>>>>>> Stashed changes
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
