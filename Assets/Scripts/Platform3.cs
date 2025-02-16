@@ -1,14 +1,13 @@
 using UnityEngine;
-using UnityEngine.SceneManagement;
 
-public class Platform : MonoBehaviour
+public class Platform3 : MonoBehaviour
 {
     public Transform posA, posB;
     public float speed = 5f;
     private bool hasTriggered = false;
     private bool isReturning = false;
     private PlatformCamera platformCamera;
-    private bool hasLoadedLevel = false;
+
 
     void Start()
     {
@@ -18,6 +17,7 @@ public class Platform : MonoBehaviour
             return;
         }
         transform.position = posA.position;
+        //camera
         platformCamera = Camera.main.GetComponent<PlatformCamera>();
     }
 
@@ -31,13 +31,9 @@ public class Platform : MonoBehaviour
                 Vector2 newPosition = Vector2.MoveTowards(transform.position, posB.position, speed * Time.deltaTime);
                 transform.position = newPosition;
             }
-            else if (!hasLoadedLevel)
-            {
-                hasLoadedLevel = true;
-                SceneManager.LoadScene("Level3");
-            }
         }
         
+        // Return to original position when player jumps off
         if (isReturning)
         {
             float distance = Vector2.Distance(transform.position, posA.position);
@@ -49,8 +45,7 @@ public class Platform : MonoBehaviour
             else
             {
                 isReturning = false;
-                hasTriggered = false;
-                hasLoadedLevel = false;
+                hasTriggered = false; // Reset trigger so platform can be used again
             }
         }
     }
@@ -63,6 +58,7 @@ public class Platform : MonoBehaviour
             isReturning = false;
             collision.transform.SetParent(transform);
             
+            // Add this to stop camera
             if (platformCamera != null)
             {
                 platformCamera.StopFollowing();
@@ -77,6 +73,7 @@ public class Platform : MonoBehaviour
             collision.transform.SetParent(null);
             isReturning = true;
             
+            // Add this to resume camera
             if (platformCamera != null)
             {
                 platformCamera.StartFollowing();
