@@ -11,10 +11,12 @@ public class Dialoglvl1 : MonoBehaviour
     
     private string[] sentences = new string[] 
     {
-        "Welcome to NAME - Press E for next",
-        "This is the tutorial where you will learn the basic controls before you dive into the ocean. - Press E for next",
-        "Your movement will consist of using the AD (Maybe S) and space keys - Press E for next",
-        "Hit A to move left and D to move right, Space to jump over obstacles - Press E to restart the dialogue",
+        "Hello and welcome to Fishaman Adventures. - Press E for next",
+        "Here, you will learn the basic movements before you start your journey.",
+        "Your basic movement keys will consist of three movements, If you hit A on your keyboard, you will move left, and if you hit D, you will move right.",
+        "The space bar is used to jump, which will be needed to jump over obstacles.",
+        "Good luck on your journey!",
+        //tutiorial ends
     };
     
     private int currentSentenceIndex = 0;

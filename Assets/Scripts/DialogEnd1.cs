@@ -1,7 +1,7 @@
 using UnityEngine;
 using TMPro;
 
-public class DialogueManager : MonoBehaviour
+public class DialogEnd1 : MonoBehaviour
 {
     public TextMeshProUGUI dialogueText;
     public GameObject dialoguePanel;
@@ -11,9 +11,14 @@ public class DialogueManager : MonoBehaviour
     
     private string[] sentences = new string[] 
     {
-        "Hello again. This time, you will have to traverse over oil barrels and not fall into the oil water pits.",
-        "Oil spills harm ocean life and contain toxins that harm sea life and coat them in oil resin.",
-        "Good luck on your journey!",
+        //ends
+        "Congrats, you have passed level One and cleared the harmful plastic in the ocean. ",
+        "Plastic is very dangerous to marine life because it can take upwards of 500 years to decompose.",
+        "When these plastics break down, they produce microplastics. These microplastics can be found in animals, and humans can also consume them!",
+
+
+
+        
     };
     
     private int currentSentenceIndex = 0;
