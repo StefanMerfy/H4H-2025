@@ -1,7 +1,11 @@
 fileFormatVersion: 2
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 guid: 4e16084754e5c428f888be749c0c2fce
+=======
+guid: 9f04ba5c9a89eea46bc09339b19ab371
+>>>>>>> Stashed changes
 =======
 guid: 9f04ba5c9a89eea46bc09339b19ab371
 >>>>>>> Stashed changes
@@ -124,6 +128,7 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   - serializedVersion: 4
     buildTarget: WebGL
     maxTextureSize: 2048
@@ -137,6 +142,8 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
@@ -313,6 +320,7 @@ TextureImporter:
       entries: []
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     nameFileIdTable:
       Dance png_0: -6560181266082836760
       Dance png_1: -6564280581165185658
@@ -321,6 +329,9 @@ TextureImporter:
       Dance png_4: 3047218818739891504
       Dance png_5: -3976073478633773898
       Dance png_6: -1630625980640979702
+=======
+    nameFileIdTable: {}
+>>>>>>> Stashed changes
 =======
     nameFileIdTable: {}
 >>>>>>> Stashed changes
